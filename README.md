@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kexin2000&label=Profile%20views&color=0e75b6&style=flat" alt="kexin2000" /> </p>
 
-- 🔭 I’m currently working on [checkstyle](https://github.com/checkstyle/checkstyle)
+- 🔭 I’m currently working on Brainiac Buddy
 
 - 🌱 I’m currently learning **MongoDB, Express.js, React.js and Node.js**
 

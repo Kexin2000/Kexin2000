@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kexin2000&label=Profile%20views&color=0e75b6&style=flat" alt="kexin2000" /> </p>
 
-- 🔭 I’m currently working on Brainiac Buddy
+- 🔭 I’m an incoming intern at Tiktok!
 
-- 🌱 I’m currently learning **MongoDB, Express.js, React.js and Node.js**
+- 🌱 I’m currently learning **Distributed System**
 
-- 💬 Ask me about **Vue and Springboot**
+- 💬 Ask me about **LLM inference and evaluation**
 
 - 📫 How to reach me **kexintang328@gmail.com**
 
